@@ -152,6 +152,10 @@ h1,
     color: rgba(var(--white), 1);
 }
 
+h1 {
+    text-shadow: 2px 2px 8px rgba(51, 46, 44,0.3);
+}
+
 h2,
 h3,
 h4,
