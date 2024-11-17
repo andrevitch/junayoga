@@ -2011,6 +2011,7 @@ header {
     /* Hero  */
     .hero-fluid {
         background: url('../img/hero.jpg') no-repeat center center/cover;
+        height: 100vh;
     }
 
     .hero-div {
@@ -2434,6 +2435,10 @@ header {
     .up-div .pageup {
         bottom: 4rem;
         right: 4rem;
+    }
+
+    .up-div .pageup img {
+        width: 4rem;
     }
 }
 
