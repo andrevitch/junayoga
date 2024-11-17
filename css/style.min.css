@@ -2035,7 +2035,7 @@ header {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
-        gap: 8rem;
+        gap: 12rem;
     }
 
     .about-grid-1 {
