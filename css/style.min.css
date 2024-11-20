@@ -1941,7 +1941,7 @@ header {
     }
 
     a.brand {
-        font-size: 2.8rem;
+        font-size: 2.4rem;
         line-height: 3rem;
     }
 
@@ -2018,7 +2018,7 @@ header {
 
     .hero-div {
         position: absolute;
-        bottom: 22%;
+        bottom: 25%;
     }
 
     .hero-div h1 {
@@ -2028,6 +2028,7 @@ header {
     .hero-div p {
         max-width: 56rem;
         margin-bottom: 2.4rem;
+        line-height: 2.8rem;
     }
 
 
