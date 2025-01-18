@@ -426,6 +426,13 @@ header {
     color: rgba(var(--black), .5);
 }
 
+
+/* Subscribe  */
+.contact-btn {
+    cursor: pointer;
+}
+
+
 /* Footer  */
 .brand-small {
     font-size: 2.4rem;
@@ -2455,6 +2462,15 @@ header {
     .up-div .pageup img {
         width: 4rem;
     }
+
+
+    /* Hover animation  */
+    .footer-col-2 address a:hover,
+    .footer-col-3 div a:hover,
+    .footer-col-4 div a:hover {
+        text-decoration: underline;
+    }
+
 }
 
 
